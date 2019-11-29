@@ -1,2 +1,10 @@
 # AMEX_BANK_Info
-american Express Bank info
+
+Purpose:  
+
+To Work on AMEx project First Development
+
+Memebers/ Team:
+Saurabh
+sneha
+Chinna
